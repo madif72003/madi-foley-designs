@@ -1,1 +1,11 @@
-<!-- ffa9da background colour -->
+body{
+    margin: 0;
+}
+
+header{
+    background-color: white;
+}
+header h1{
+    color: #ffa9da;
+}
+
