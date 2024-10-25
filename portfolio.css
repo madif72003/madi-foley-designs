@@ -1,11 +1,14 @@
 body{
     margin: 0;
+    font-family: "Montserrat", serif;
 }
-
 header{
     background-color: white;
 }
-header h1{
-    color: #ffa9da;
+p {
+    color: pink;
+    font-family: "Montserrat", serif;
+    font-size: 50px;
+    padding: 5px;
 }
 
